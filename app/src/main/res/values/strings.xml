@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Preferences</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">android-preference-demo</string>
+    <string name="btn_show">Click me!</string>
     <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    
+    <string name="key_normal">key_normal</string>
+    <string name="title_normal">Normal Title</string>
+    <string name="summary_normal">This is a normal preference</string>
+
+    <string name="key_bool">key_bool</string>
+    <string name="title_bool">Check/Uncheck</string>
+    <string name="summary_bool">This is a bool preference</string>
+
+    <string name="key_editext">key_editext</string>
+    <string name="defaul_editext">User Name</string>
+    <string name="title_editext">Edit Text</string>
+    <string name="summary_editext">This is a EditText preference</string>
+
+    <string name="key_list">key_list</string>
+    <string name="title_list">List</string>
+    <string name="dialog_title_list">Dialog List</string>
+    <string name="summary_list">This is a List preference</string>
 
 </resources>
